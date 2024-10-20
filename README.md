@@ -1,1 +1,1 @@
-# Intro-to-CSS
+Into to CSS. Showing external, internal, and inline method.
